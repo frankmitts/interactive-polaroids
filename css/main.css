@@ -45,7 +45,7 @@ html {
 }
 
 .polaroid:nth-child(2) {
-  left: 25%;
+  left: 30%;
   top: 150px;
   transform: rotate(4deg);
   z-index: 10;
@@ -58,7 +58,7 @@ html {
 }
 
 .polaroid:last-child {
-  left: 30%;
+  left: 38%;
   top: 100px;
   transform: rotate(35deg);
 }
